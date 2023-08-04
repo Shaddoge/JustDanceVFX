@@ -5,6 +5,9 @@ using UnityEngine;
 public class CardManager : MonoBehaviour
 {
     private CardPlayer[] cardPlayers;
+    
+    private const float COOLDOWN = 2f;
+    private bool onCooldown = false;
 
     private void Awake()
     {
@@ -13,9 +16,12 @@ public class CardManager : MonoBehaviour
 
     public void Play(int index)
     {
+        if (onCooldown) return;
         if (cardPlayers.Length == 0) return;
         if (index < 0 || index >= cardPlayers.Length) return;
         
+        StartCoroutine(StartCooldown());
+
         for (int i = 0; i < cardPlayers.Length; i++)
         {
             if (i != index)
@@ -23,5 +29,12 @@ public class CardManager : MonoBehaviour
             else
                 cardPlayers[i].Play();
         }
+    }
+
+    private IEnumerator StartCooldown()
+    {
+        onCooldown = true;
+        yield return new WaitForSeconds(COOLDOWN);
+        onCooldown = false;
     }
 }
