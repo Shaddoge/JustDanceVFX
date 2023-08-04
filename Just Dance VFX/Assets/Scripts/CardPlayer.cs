@@ -92,6 +92,7 @@ public class CardPlayer : MonoBehaviour
         charDisplay.transform.DOScale(new Vector2(1, 1), charScaleTime);
         charDisplay.transform.DOLocalMoveX(0f, charScaleTime);
 
+        charImageFade.color = Color.white;
         charImageFade.gameObject.SetActive(true);
         charImageFade.DOFade(0f, charScaleTime).SetEase(Ease.OutSine).OnComplete(() => {
             charImageFade.gameObject.SetActive(false);
