@@ -32,6 +32,7 @@ public class CardPlayer : MonoBehaviour
     [Header("VFX")]
     [SerializeField] private VisualEffect cardCharge;
     [SerializeField] private VisualEffect charVFX;
+    [SerializeField] private GameObject charImageVFX;
 
     private float cardOrigXSize = 0f;
 
@@ -52,11 +53,13 @@ public class CardPlayer : MonoBehaviour
 
     public void SetStartState()
     {
+        cardCanvas.gameObject.SetActive(false);
         cardBorder.sizeDelta = new Vector2(0, cardBorder.sizeDelta.y);
         Color initialColor = new Color(1, 1, 1, 0);
         cardFill.color = initialColor;
         cardBG.color = initialColor;
 
+        charCanvas.gameObject.SetActive(false);
         charDisplay.SetActive(false);
         charDisplay.transform.localScale = new Vector2(charInitScale, charInitScale);
         charDisplay.transform.localPosition = new Vector2(charInitXOffset, charDisplay.transform.localPosition.y);
@@ -77,6 +80,7 @@ public class CardPlayer : MonoBehaviour
     {
         SetStartState();
         // Play VFX
+        cardCanvas.gameObject.SetActive(true);
         cardCharge.Play();
 
         Sequence cardSequence = DOTween.Sequence();
@@ -88,6 +92,11 @@ public class CardPlayer : MonoBehaviour
 
     private void ShowCharacter()
     {
+        charCanvas.gameObject.SetActive(true);
+        
+        if (charImageVFX != null)
+            charImageVFX.SetActive(true);
+        
         charDisplay.SetActive(true);
         charDisplay.transform.DOScale(new Vector2(1, 1), charScaleTime);
         charDisplay.transform.DOLocalMoveX(0f, charScaleTime);
