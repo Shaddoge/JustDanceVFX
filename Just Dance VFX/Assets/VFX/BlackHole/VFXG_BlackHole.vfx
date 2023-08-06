@@ -266,7 +266,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7d4c867f6b72b714dbb5fd1780afe208, type: 3}
-  m_Name: vfxgraph_MagicOrb05
+  m_Name: VFXG_BlackHole
   m_EditorClassIdentifier: 
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 0}
@@ -830,7 +830,7 @@ VisualEffectResource:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: vfxgraph_MagicOrb05
+  m_Name: VFXG_BlackHole
   m_Graph: {fileID: 114350483966674976}
   m_Infos:
     m_RendererSettings:
@@ -15731,7 +15731,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615396}
   m_ExposedName: CircleSize
   m_Exposed: 1
-  m_Order: 25
+  m_Order: 26
   m_Category: 
   m_Min:
     m_Type:
@@ -15811,7 +15811,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615398}
   m_ExposedName: CircleColor
   m_Exposed: 1
-  m_Order: 25
+  m_Order: 27
   m_Category: 
   m_Min:
     m_Type:
@@ -16027,7 +16027,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615404}
   m_ExposedName: CircleLifetime
   m_Exposed: 1
-  m_Order: 25
+  m_Order: 28
   m_Category: 
   m_Min:
     m_Type:
@@ -16107,7 +16107,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615406}
   m_ExposedName: CircleRate
   m_Exposed: 1
-  m_Order: 25
+  m_Order: 29
   m_Category: 
   m_Min:
     m_Type:
