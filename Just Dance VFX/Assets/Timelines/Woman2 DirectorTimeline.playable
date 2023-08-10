@@ -35,7 +35,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07c579aa4480ce64daff0ad6a9312d97, type: 3}
   m_Name: StreamingImageSequencePlayableAsset
   m_EditorClassIdentifier: 
-  m_folder: Assets/StreamingAssets/Woman2
+  m_folder: Assets/StreamingAssets/Woman2_Sequence
   m_imageFiles:
   - m_name: Woman2_000.png
     m_size: 81150
@@ -336,7 +336,7 @@ MonoBehaviour:
   m_time: 0.6929622292518616
   m_textureFilterMode: 1
   Folder: 
-  m_timelineDefaultAsset: {fileID: 102900000, guid: 3b877441c7c7446438e794e8015fd67b, type: 3}
+  m_timelineDefaultAsset: {fileID: 102900000, guid: 1100471c032a5d04c94498974eab9497, type: 3}
 --- !u!114 &-4336391480263813501
 MonoBehaviour:
   m_ObjectHideFlags: 1
