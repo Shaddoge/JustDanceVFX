@@ -409,7 +409,7 @@ MonoBehaviour:
     m_size: 62253
   m_timelineBGColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   m_version: 3
-  m_time: 0
+  m_time: 0.866499662399292
   m_textureFilterMode: 1
   Folder: 
   m_timelineDefaultAsset: {fileID: 102900000, guid: 37f33b6206a97fb4b8242c61f640b4aa, type: 3}
