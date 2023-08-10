@@ -333,7 +333,7 @@ MonoBehaviour:
     m_size: 77251
   m_timelineBGColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   m_version: 3
-  m_time: 0
+  m_time: 0.6929622292518616
   m_textureFilterMode: 1
   Folder: 
   m_timelineDefaultAsset: {fileID: 102900000, guid: 3b877441c7c7446438e794e8015fd67b, type: 3}
@@ -362,7 +362,7 @@ MonoBehaviour:
     m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: -7111805864130879038}
-    m_Duration: 2.466666666666667
+    m_Duration: 2.4500000161093634
     m_TimeScale: 1
     m_ParentTrack: {fileID: -4336391480263813501}
     m_EaseInDuration: 0
@@ -1320,12 +1320,6 @@ MonoBehaviour:
       m_localTime: 2.433333333333333
       m_marker: {fileID: 0}
       m_userNote: 
-    - m_serializedBoolProperties:
-      - m_propertyID: 0
-        m_propertyValue: 1
-      m_localTime: 2.45
-      m_marker: {fileID: 0}
-      m_userNote: 
     m_frameMarkersRequested: 0
     m_playableFrameClipDataVersion: 1
     m_sisClipDataVersion: 1
@@ -1336,15 +1330,15 @@ MonoBehaviour:
         time: 0
         value: 0
         inSlope: 0
-        outSlope: 0.40540543
+        outSlope: 0.4081633
         tangentMode: 0
         weightedMode: 0
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 2.4666667
+        time: 2.45
         value: 1
-        inSlope: 0.40540543
+        inSlope: 0.4081633
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -1379,15 +1373,15 @@ AnimationClip:
         time: 0
         value: 0
         inSlope: 0
-        outSlope: 0.40540543
+        outSlope: 0.4081633
         tangentMode: 0
         weightedMode: 0
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 2.4666667
+        time: 2.45
         value: 1
-        inSlope: 0.40540543
+        inSlope: 0.4081633
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -1415,7 +1409,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 2.4666667
+    m_StopTime: 2.45
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -1439,15 +1433,15 @@ AnimationClip:
         time: 0
         value: 0
         inSlope: 0
-        outSlope: 0.40540543
+        outSlope: 0.4081633
         tangentMode: 0
         weightedMode: 0
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 2.4666667
+        time: 2.45
         value: 1
-        inSlope: 0.40540543
+        inSlope: 0.4081633
         outSlope: 0
         tangentMode: 0
         weightedMode: 0

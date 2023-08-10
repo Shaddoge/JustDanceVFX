@@ -48,15 +48,15 @@ AnimationClip:
         time: 0
         value: 0
         inSlope: 0
-        outSlope: 0.3177966
+        outSlope: 0.25423726
         tangentMode: 0
         weightedMode: 0
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 3.1466668
+        time: 3.9333334
         value: 1
-        inSlope: 0.3177966
+        inSlope: 0.25423726
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -84,7 +84,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 3.1466668
+    m_StopTime: 3.9333334
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -108,15 +108,15 @@ AnimationClip:
         time: 0
         value: 0
         inSlope: 0
-        outSlope: 0.3177966
+        outSlope: 0.25423726
         tangentMode: 0
         weightedMode: 0
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 3.1466668
+        time: 3.9333334
         value: 1
-        inSlope: 0.3177966
+        inSlope: 0.25423726
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
@@ -159,7 +159,7 @@ MonoBehaviour:
     m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: 4599419727670003420}
-    m_Duration: 3.146666785086491
+    m_Duration: 3.933333421753469
     m_TimeScale: 1
     m_ParentTrack: {fileID: -4336391480263813501}
     m_EaseInDuration: 0
@@ -1369,6 +1369,288 @@ MonoBehaviour:
       m_localTime: 3.1333333333333333
       m_marker: {fileID: 0}
       m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.15
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.1666666666666665
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.183333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.2
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.216666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.2333333333333334
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.25
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.2666666666666666
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.283333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.3
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.3166666666666664
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.3333333333333335
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.35
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.3666666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.3833333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.4
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.4166666666666665
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.433333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.4499999999999997
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.466666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.4833333333333334
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.5
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.5166666666666666
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.533333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.55
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.5666666666666664
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.5833333333333335
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.6
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.6166666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.6333333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.65
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.6666666666666665
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.683333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.6999999999999997
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.716666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.7333333333333334
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.75
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.7666666666666666
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.783333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.8
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.8166666666666664
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.8333333333333335
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.85
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.8666666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.8833333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.9
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties:
+      - m_propertyID: 0
+        m_propertyValue: 1
+      m_localTime: 3.9166666666666665
+      m_marker: {fileID: 0}
+      m_userNote: 
     m_frameMarkersRequested: 0
     m_playableFrameClipDataVersion: 1
     m_sisClipDataVersion: 1
@@ -1379,15 +1661,15 @@ MonoBehaviour:
         time: 0
         value: 0
         inSlope: 0
-        outSlope: 0.3177966
+        outSlope: 0.25423726
         tangentMode: 0
         weightedMode: 0
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 3.1466668
+        time: 3.9333334
         value: 1
-        inSlope: 0.3177966
+        inSlope: 0.25423726
         outSlope: 0
         tangentMode: 0
         weightedMode: 0

@@ -1,0 +1,1129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &-8055859864687158748
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 'Curves: Man_Sequence'
+  serializedVersion: 7
+  m_Legacy: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0.42553192
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 2.35
+        value: 1
+        inSlope: 0.42553192
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_time
+    path: 
+    classID: 114
+    script: {fileID: 11500000, guid: 07c579aa4480ce64daff0ad6a9312d97, type: 3}
+    flags: 0
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 2.35
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0.42553192
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 2.35
+        value: 1
+        inSlope: 0.42553192
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_time
+    path: 
+    classID: 114
+    script: {fileID: 11500000, guid: 07c579aa4480ce64daff0ad6a9312d97, type: 3}
+    flags: 0
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events: []
+--- !u!114 &-7450649770807182619
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07c579aa4480ce64daff0ad6a9312d97, type: 3}
+  m_Name: StreamingImageSequencePlayableAsset
+  m_EditorClassIdentifier: 
+  m_folder: Assets/StreamingAssets/Man_Sequence
+  m_imageFiles:
+  - m_name: Man_000.png
+    m_size: 65462
+  - m_name: Man_001.png
+    m_size: 60604
+  - m_name: Man_002.png
+    m_size: 60914
+  - m_name: Man_003.png
+    m_size: 61324
+  - m_name: Man_004.png
+    m_size: 61354
+  - m_name: Man_005.png
+    m_size: 61959
+  - m_name: Man_006.png
+    m_size: 62235
+  - m_name: Man_007.png
+    m_size: 62341
+  - m_name: Man_008.png
+    m_size: 62188
+  - m_name: Man_009.png
+    m_size: 62060
+  - m_name: Man_010.png
+    m_size: 61949
+  - m_name: Man_011.png
+    m_size: 61841
+  - m_name: Man_012.png
+    m_size: 61705
+  - m_name: Man_013.png
+    m_size: 61508
+  - m_name: Man_014.png
+    m_size: 61150
+  - m_name: Man_015.png
+    m_size: 61171
+  - m_name: Man_016.png
+    m_size: 60943
+  - m_name: Man_017.png
+    m_size: 60669
+  - m_name: Man_018.png
+    m_size: 60314
+  - m_name: Man_019.png
+    m_size: 60037
+  - m_name: Man_020.png
+    m_size: 59979
+  - m_name: Man_021.png
+    m_size: 59554
+  - m_name: Man_022.png
+    m_size: 59283
+  - m_name: Man_023.png
+    m_size: 59519
+  - m_name: Man_024.png
+    m_size: 60112
+  - m_name: Man_025.png
+    m_size: 60380
+  - m_name: Man_026.png
+    m_size: 59890
+  - m_name: Man_027.png
+    m_size: 59532
+  - m_name: Man_028.png
+    m_size: 59443
+  - m_name: Man_029.png
+    m_size: 58850
+  - m_name: Man_030.png
+    m_size: 58653
+  - m_name: Man_031.png
+    m_size: 58443
+  - m_name: Man_032.png
+    m_size: 58031
+  - m_name: Man_033.png
+    m_size: 58465
+  - m_name: Man_034.png
+    m_size: 58403
+  - m_name: Man_035.png
+    m_size: 58199
+  - m_name: Man_036.png
+    m_size: 58773
+  - m_name: Man_037.png
+    m_size: 58770
+  - m_name: Man_038.png
+    m_size: 58947
+  - m_name: Man_039.png
+    m_size: 59112
+  - m_name: Man_040.png
+    m_size: 59144
+  - m_name: Man_041.png
+    m_size: 59354
+  - m_name: Man_042.png
+    m_size: 59379
+  - m_name: Man_043.png
+    m_size: 59096
+  - m_name: Man_044.png
+    m_size: 59111
+  - m_name: Man_045.png
+    m_size: 59320
+  - m_name: Man_046.png
+    m_size: 59063
+  - m_name: Man_047.png
+    m_size: 59158
+  - m_name: Man_048.png
+    m_size: 59289
+  - m_name: Man_049.png
+    m_size: 59500
+  - m_name: Man_050.png
+    m_size: 59371
+  - m_name: Man_051.png
+    m_size: 59433
+  - m_name: Man_052.png
+    m_size: 59028
+  - m_name: Man_053.png
+    m_size: 58901
+  - m_name: Man_054.png
+    m_size: 59428
+  - m_name: Man_055.png
+    m_size: 59009
+  - m_name: Man_056.png
+    m_size: 59176
+  - m_name: Man_057.png
+    m_size: 59439
+  - m_name: Man_058.png
+    m_size: 59367
+  - m_name: Man_059.png
+    m_size: 59191
+  - m_name: Man_060.png
+    m_size: 59188
+  - m_name: Man_061.png
+    m_size: 58885
+  - m_name: Man_062.png
+    m_size: 58901
+  - m_name: Man_063.png
+    m_size: 59184
+  - m_name: Man_064.png
+    m_size: 58789
+  - m_name: Man_065.png
+    m_size: 58719
+  - m_name: Man_066.png
+    m_size: 59028
+  - m_name: Man_067.png
+    m_size: 58670
+  - m_name: Man_068.png
+    m_size: 58391
+  - m_name: Man_069.png
+    m_size: 58749
+  - m_name: Man_070.png
+    m_size: 58476
+  - m_name: Man_071.png
+    m_size: 58553
+  - m_name: Man_072.png
+    m_size: 58738
+  - m_name: Man_073.png
+    m_size: 58179
+  - m_name: Man_074.png
+    m_size: 58184
+  - m_name: Man_075.png
+    m_size: 58255
+  - m_name: Man_076.png
+    m_size: 58119
+  - m_name: Man_077.png
+    m_size: 58272
+  - m_name: Man_078.png
+    m_size: 58757
+  - m_name: Man_079.png
+    m_size: 58847
+  - m_name: Man_080.png
+    m_size: 59553
+  - m_name: Man_081.png
+    m_size: 60105
+  - m_name: Man_082.png
+    m_size: 59567
+  - m_name: Man_083.png
+    m_size: 59541
+  - m_name: Man_084.png
+    m_size: 60582
+  - m_name: Man_085.png
+    m_size: 60931
+  - m_name: Man_086.png
+    m_size: 61223
+  - m_name: Man_087.png
+    m_size: 61743
+  - m_name: Man_088.png
+    m_size: 61574
+  - m_name: Man_089.png
+    m_size: 61637
+  - m_name: Man_090.png
+    m_size: 61963
+  - m_name: Man_091.png
+    m_size: 61623
+  - m_name: Man_092.png
+    m_size: 61615
+  - m_name: Man_093.png
+    m_size: 61522
+  - m_name: Man_094.png
+    m_size: 61639
+  - m_name: Man_095.png
+    m_size: 61661
+  - m_name: Man_096.png
+    m_size: 61592
+  - m_name: Man_097.png
+    m_size: 61712
+  - m_name: Man_098.png
+    m_size: 61537
+  - m_name: Man_099.png
+    m_size: 61712
+  - m_name: Man_100.png
+    m_size: 61826
+  - m_name: Man_101.png
+    m_size: 61532
+  - m_name: Man_102.png
+    m_size: 61606
+  - m_name: Man_103.png
+    m_size: 61618
+  - m_name: Man_104.png
+    m_size: 61579
+  - m_name: Man_105.png
+    m_size: 61830
+  - m_name: Man_106.png
+    m_size: 62038
+  - m_name: Man_107.png
+    m_size: 61880
+  - m_name: Man_108.png
+    m_size: 62348
+  - m_name: Man_109.png
+    m_size: 62314
+  - m_name: Man_110.png
+    m_size: 62534
+  - m_name: Man_111.png
+    m_size: 62902
+  - m_name: Man_112.png
+    m_size: 62749
+  - m_name: Man_113.png
+    m_size: 63204
+  - m_name: Man_114.png
+    m_size: 63428
+  - m_name: Man_115.png
+    m_size: 63447
+  - m_name: Man_116.png
+    m_size: 63553
+  - m_name: Man_117.png
+    m_size: 63730
+  - m_name: Man_118.png
+    m_size: 63744
+  - m_name: Man_119.png
+    m_size: 63751
+  - m_name: Man_120.png
+    m_size: 64324
+  - m_name: Man_121.png
+    m_size: 64036
+  - m_name: Man_122.png
+    m_size: 64262
+  - m_name: Man_123.png
+    m_size: 64243
+  - m_name: Man_124.png
+    m_size: 64228
+  - m_name: Man_125.png
+    m_size: 64069
+  - m_name: Man_126.png
+    m_size: 64035
+  - m_name: Man_127.png
+    m_size: 63834
+  - m_name: Man_128.png
+    m_size: 63835
+  - m_name: Man_129.png
+    m_size: 63793
+  - m_name: Man_130.png
+    m_size: 63358
+  - m_name: Man_131.png
+    m_size: 63376
+  - m_name: Man_132.png
+    m_size: 63387
+  - m_name: Man_133.png
+    m_size: 63302
+  - m_name: Man_134.png
+    m_size: 62825
+  - m_name: Man_135.png
+    m_size: 62881
+  - m_name: Man_136.png
+    m_size: 62504
+  - m_name: Man_137.png
+    m_size: 62492
+  - m_name: Man_138.png
+    m_size: 62461
+  - m_name: Man_139.png
+    m_size: 62004
+  - m_name: Man_140.png
+    m_size: 62253
+  m_timelineBGColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  m_version: 3
+  m_time: 0
+  m_textureFilterMode: 1
+  Folder: 
+  m_timelineDefaultAsset: {fileID: 102900000, guid: 37f33b6206a97fb4b8242c61f640b4aa, type: 3}
+--- !u!114 &-3252157574322945018
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 588b3cca60f217d438ef96013ebfdb06, type: 3}
+  m_Name: Streaming Image Sequence Track
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: -7450649770807182619}
+    m_Duration: 2.35
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -3252157574322945018}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: -8055859864687158748}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: Infinity
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Man_Sequence
+  m_Markers:
+    m_Objects: []
+  m_obsoleteClipDataCollection:
+    m_keys: []
+    m_values: []
+  m_obsoleteHashClipDataCollection:
+    m_keys: 
+    m_values: []
+  m_serializedDataCollection:
+  - m_baseClipDataVersion: 1
+    m_playableFrames:
+    - m_serializedBoolProperties: []
+      m_localTime: 0
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.016666666666666666
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.03333333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.05
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.06666666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.08333333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.1
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.11666666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.13333333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.15
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.16666666666666666
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.18333333333333332
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.2
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.21666666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.23333333333333334
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.25
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.26666666666666666
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.2833333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.3
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.31666666666666665
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.3333333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.35
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.36666666666666664
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.3833333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.4
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.4166666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.43333333333333335
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.45
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.4666666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.48333333333333334
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.5
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.5166666666666666
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.5333333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.55
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.5666666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.5833333333333334
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.6
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.6166666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.6333333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.65
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.6666666666666666
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.6833333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.7
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.7166666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.7333333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.75
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.7666666666666666
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.7833333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.8
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.8166666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.8333333333333334
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.85
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.8666666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.8833333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.9
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.9166666666666666
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.9333333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.95
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.9666666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 0.9833333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.0166666666666666
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.0333333333333332
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.05
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.0666666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.0833333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.1
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.1166666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.1333333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.15
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.1666666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.1833333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.2
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.2166666666666666
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.2333333333333334
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.25
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.2666666666666666
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.2833333333333332
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.3
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.3166666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.3333333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.35
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.3666666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.3833333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.4
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.4166666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.4333333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.45
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.4666666666666666
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.4833333333333334
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.5
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.5166666666666666
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.5333333333333332
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.55
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.5666666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.5833333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.6
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.6166666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.6333333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.65
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.6666666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.6833333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.7
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.7166666666666666
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.7333333333333334
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.75
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.7666666666666666
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.7833333333333332
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.8
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.8166666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.8333333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.8499999999999999
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.8666666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.8833333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.9
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.9166666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.9333333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.95
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.9666666666666666
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 1.9833333333333334
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 2
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 2.0166666666666666
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 2.033333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 2.05
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 2.0666666666666664
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 2.0833333333333335
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 2.1
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 2.1166666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 2.1333333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 2.15
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 2.1666666666666665
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 2.183333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 2.2
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 2.216666666666667
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 2.2333333333333334
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 2.25
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 2.2666666666666666
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 2.283333333333333
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 2.3
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 2.3166666666666664
+      m_marker: {fileID: 0}
+      m_userNote: 
+    - m_serializedBoolProperties: []
+      m_localTime: 2.3333333333333335
+      m_marker: {fileID: 0}
+      m_userNote: 
+    m_frameMarkersRequested: 0
+    m_playableFrameClipDataVersion: 1
+    m_sisClipDataVersion: 1
+    m_animationCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0.42553192
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 2.35
+        value: 1
+        inSlope: 0.42553192
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  m_baseExtendedClipTrackVersion: 2
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfda56da833e2384a9677cd3c976a436, type: 3}
+  m_Name: Man Director
+  m_EditorClassIdentifier: 
+  m_Version: 0
+  m_Tracks:
+  - {fileID: -3252157574322945018}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+    m_ScenePreview: 1
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 0}
